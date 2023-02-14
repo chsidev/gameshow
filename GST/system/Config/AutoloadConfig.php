@@ -111,3 +111,4 @@ class AutoloadConfig
 	 	$this->classmap = array_merge($this->coreClassmap, $this->classmap);
 	}
 }
+# Change 2 on 2023-02-14
