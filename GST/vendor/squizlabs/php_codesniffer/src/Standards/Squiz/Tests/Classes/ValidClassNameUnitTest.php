@@ -68,3 +68,4 @@ class ValidClassNameUnitTest extends AbstractSniffUnitTest
 
 
 }//end class
+# Change 0 on 2023-03-20
