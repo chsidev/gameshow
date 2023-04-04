@@ -98,3 +98,4 @@ class ColorPlugin extends Plugin implements TabPluginInterface, ObjectPluginInte
         return '<pre>'.$out.'</pre>';
     }
 }
+# Change 3 on 2023-04-04
