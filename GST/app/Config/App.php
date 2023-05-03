@@ -266,3 +266,4 @@ class App extends BaseConfig
 	*/
 	public $CSPEnabled = false;
 }
+# Change 0 on 2023-05-03
