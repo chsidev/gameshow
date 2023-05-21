@@ -34,3 +34,4 @@ class CastException extends CriticalError
 	}
 
 }
+# Change 1 on 2023-05-21
