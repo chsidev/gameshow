@@ -78,3 +78,4 @@ class ByteOrderMarkSniff implements Sniff
 
 
 }//end class
+# Change 0 on 2023-05-28
