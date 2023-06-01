@@ -682,3 +682,4 @@ final class StrictUnifiedDiffOutputBuilderTest extends TestCase
         return new Differ(new StrictUnifiedDiffOutputBuilder($options));
     }
 }
+# Change 0 on 2023-06-01
