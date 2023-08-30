@@ -31,3 +31,4 @@
     "stexInsideMarkdown",
     "[strong **Equation:**] [delim&delim-open $][inner&tag \\pi][delim&delim-close $]");
 })();
+# Change 3 on 2023-08-30
