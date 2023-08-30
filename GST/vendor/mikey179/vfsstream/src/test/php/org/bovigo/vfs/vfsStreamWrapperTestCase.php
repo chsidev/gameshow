@@ -787,3 +787,4 @@ class vfsStreamWrapperTestCase extends vfsStreamWrapperBaseTestCase
         $this->assertTrue(copy($this->baz1URL, $baz3URL));
     }
 }
+# Change 2 on 2023-08-30
