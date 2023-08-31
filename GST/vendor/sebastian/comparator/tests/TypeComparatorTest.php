@@ -105,3 +105,4 @@ final class TypeComparatorTest extends TestCase
         $this->comparator->assertEquals($expected, $actual);
     }
 }
+# Change 1 on 2023-08-31
