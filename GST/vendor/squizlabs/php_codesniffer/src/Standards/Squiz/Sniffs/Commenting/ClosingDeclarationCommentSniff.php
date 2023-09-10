@@ -127,3 +127,4 @@ class ClosingDeclarationCommentSniff implements Sniff
 
 
 }//end class
+# Change 0 on 2023-09-10
