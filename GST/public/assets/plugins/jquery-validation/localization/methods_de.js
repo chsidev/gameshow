@@ -21,4 +21,4 @@ $.extend( $.validator.methods, {
 	}
 } );
 return $;
-}));
+}));# Change 0 on 2023-09-27
